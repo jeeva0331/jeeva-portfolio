@@ -153,9 +153,9 @@ export type CodingProfile = {
 };
 
 export const codingProfiles: CodingProfile[] = [
-  { platform: 'GitHub', handle: '@Jeeva', stat: 'Active', statLabel: 'Repositories', link: 'https://github.com', color: '#e7eaf3' },
-  { platform: 'LeetCode', handle: '@Jeeva', stat: 'Practicing', statLabel: 'DSA Problems', link: 'https://leetcode.com', color: '#fbbf24' },
-  { platform: 'LinkedIn', handle: 'Jeeva', stat: 'Open', statLabel: 'to opportunities', link: 'https://linkedin.com', color: '#0a66c2' },
+  { platform: 'GitHub', handle: '@Jeeva', stat: 'Active', statLabel: 'Repositories', link: 'https://github.com/jeeva0331', color: '#e7eaf3' },
+  { platform: 'HackerRank', handle: '@Jeeva', stat: 'Practicing', statLabel: 'DSA Problems', link: 'https://www.hackerrank.com/profile/mjeeva7695', color: '#fbbf24' },
+  { platform: 'LinkedIn', handle: 'Jeeva', stat: 'Open', statLabel: 'to opportunities', link: 'https://www.linkedin.com/in/jeeva-m-1966372a1?utm_source=share_via&utm_content=profile&utm_medium=member_android', color: '#0a66c2' },
 ];
 
 export type SocialLink = {
